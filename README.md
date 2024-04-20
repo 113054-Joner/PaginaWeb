@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6wr7eWAA)
 # bootstrap-practice
 
 Replicar esta pagina utilizando bootstrap y los componentes que ofrece. Solo la parte visual, no es necesario que la página tenga comportamiento, es decir, no es necesario utilizar JavaScript.
