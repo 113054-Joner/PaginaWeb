@@ -1,0 +1,39 @@
+.Fondo-Uno{
+    width: 100%; /* Asegura que el div ocupe todo el ancho disponible */
+    height: 90vh; /* Asegura que el div ocupe todo el alto disponible */
+    background-image: url(../bootstrap-practice-113054-Joner/Image/imagen1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+}
+
+h1,h6,label{
+
+    font-family: "Roboto",sans-serif;
+}
+
+.carousel-inner img{
+    height: 93vh; /* Establece la altura fija deseada */
+    object-fit: fill; /* Ajusta la imagen para cubrir el contenedor manteniendo la proporción */
+}
+/* object-fit
+    - fill = esto es lo predeterminado. La imagen cambia de tamaño para llenar la dimensión dada. Si es necesario, la imagen se estirará o aplastará para que quepa
+    - contain = la imagen mantiene su relación de aspecto, pero se cambia de tamaño para ajustarse a la dimensión dada.
+    - cover = la imagen mantiene su relación de aspecto y llena la dimensión dada. La imagen se recortará para ajustarse
+    - none = la imagen no cambia de tamaño
+    - scale-down = la imagen se reduce a la versión más pequeña de none o contiene
+*/
+
+.Fondo-Dos{
+    width: 100%; 
+    height: 25vh; 
+    background-image: url(../bootstrap-practice-113054-Joner/Image/estadio1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+}
+
+
+.card img{
+    height: 30vh;
+}
